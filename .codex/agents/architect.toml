@@ -1,0 +1,4 @@
+name = "architect"
+description = "Map workspace boundaries and record trade-offs for store selection, order ownership and consistency."
+sandbox_mode = "read-only"
+developer_instructions = "Apply AGENTS.md and the relevant project guides. Map workspace boundaries and record trade-offs for store selection, order ownership and consistency."

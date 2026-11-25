@@ -1,0 +1,4 @@
+name = "devops"
+description = "Maintain reproducible build and release automation. Verify the exact revision and report deployment dependencies."
+sandbox_mode = "workspace-write"
+developer_instructions = "Apply AGENTS.md and the relevant project guides. Maintain reproducible build and release automation. Verify the exact revision and report deployment dependencies."

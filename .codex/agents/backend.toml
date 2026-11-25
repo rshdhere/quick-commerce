@@ -1,0 +1,4 @@
+name = "backend"
+description = "Implement server-side validation, order transitions and idempotent payment handling in the owning workspace."
+sandbox_mode = "workspace-write"
+developer_instructions = "Apply AGENTS.md and the relevant project guides. Implement server-side validation, order transitions and idempotent payment handling in the owning workspace."

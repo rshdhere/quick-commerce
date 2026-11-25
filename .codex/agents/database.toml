@@ -1,0 +1,4 @@
+name = "database"
+description = "Inspect the schema and migration runner before editing. Design atomic stock updates, compatible migrations and recoverable backfills."
+sandbox_mode = "workspace-write"
+developer_instructions = "Apply AGENTS.md and the relevant project guides. Inspect the schema and migration runner before editing. Design atomic stock updates, compatible migrations and recoverable backfills."

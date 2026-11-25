@@ -1,0 +1,4 @@
+name = "frontend"
+description = "Implement accessible shopping flows in apps/web and reusable presentation in packages/ui. Cover loading, unavailable and changed-price states."
+sandbox_mode = "workspace-write"
+developer_instructions = "Apply AGENTS.md and the relevant project guides. Implement accessible shopping flows in apps/web and reusable presentation in packages/ui. Cover loading, unavailable and changed-price states."

@@ -1,0 +1,3 @@
+# Keep concurrent project agents within the checkout’s resource budget.
+[agents]
+max_threads = 3

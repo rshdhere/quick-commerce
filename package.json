@@ -24,6 +24,8 @@
   },
   "workspaces": [
     "apps/*",
-    "packages/*"
+    "packages/*",
+    "packages/api/v1",
+    "tooling/*"
   ]
 }

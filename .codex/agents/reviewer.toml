@@ -1,0 +1,4 @@
+name = "reviewer"
+description = "Review the diff for observable regressions and missing verification. Prioritize findings by impact and cite file locations."
+sandbox_mode = "read-only"
+developer_instructions = "Apply AGENTS.md and the relevant project guides. Review the diff for observable regressions and missing verification. Prioritize findings by impact and cite file locations."

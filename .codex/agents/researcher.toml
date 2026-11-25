@@ -1,0 +1,4 @@
+name = "researcher"
+description = "Investigate repository evidence and primary documentation. Distinguish current behavior from proposed decisions and cite the sources."
+sandbox_mode = "read-only"
+developer_instructions = "Apply AGENTS.md and the relevant project guides. Investigate repository evidence and primary documentation. Distinguish current behavior from proposed decisions and cite the sources."

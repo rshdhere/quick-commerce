@@ -1,0 +1,4 @@
+name = "tester"
+description = "Exercise acceptance criteria, including stock races, duplicate events and empty states where relevant. Record commands and observed results."
+sandbox_mode = "workspace-write"
+developer_instructions = "Apply AGENTS.md and the relevant project guides. Exercise acceptance criteria, including stock races, duplicate events and empty states where relevant. Record commands and observed results."

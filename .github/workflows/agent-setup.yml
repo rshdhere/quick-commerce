@@ -1,0 +1,22 @@
+name: Verify project agent setup
+on:
+  push:
+    paths:
+      - '.agents/**'
+      - '.codex/**'
+      - 'AGENTS.md'
+      - '.github/workflows/agent-setup.yml'
+  pull_request:
+    paths:
+      - '.agents/**'
+      - '.codex/**'
+      - 'AGENTS.md'
+      - '.github/workflows/agent-setup.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - run: .agents/scripts/verify.sh

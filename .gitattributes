@@ -1,0 +1,5 @@
+# Exclude bundled skill JavaScript from GitHub language statistics.
+.agents/skills/**/*.js linguist-vendored
+.agents/skills/**/*.mjs linguist-vendored
+.agents/skills/**/*.cjs linguist-vendored
+.agents/skills/**/*.jsx linguist-vendored

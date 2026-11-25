@@ -1,6 +1,12 @@
-# Turborepo starter
+# Quick Commerce
 
-This Turborepo starter is maintained by the Turborepo core team.
+## VPC architecture
+
+This proposed AWS architecture follows a checkout request from the public load balancer to API pods on Amazon EKS and the Aurora database. Numbered arrows also show Razorpay payment traffic, webhook callbacks, and store fulfillment events.
+
+![Quick-commerce VPC diagram showing public and private subnets, EKS workloads, and numbered checkout flows](docs/vpc/vpc.png)
+
+[View the full-size diagram](docs/vpc/vpc.png) · [Download the editable Excalidraw source](docs/vpc/vpc.excalidraw?raw=1)
 
 ## Using this example
 
